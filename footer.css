@@ -1,0 +1,100 @@
+#footer {
+    background-color: rgb(29, 27, 54);
+}
+
+#inner_footer {
+    width: 1150px;
+    margin: 5% auto;
+}
+
+#footer_top {
+    display: flex;
+    gap: 1%;
+    margin: auto;
+    padding: 1% 5%;
+}
+
+#footer_top > div:nth-child(1) {
+    width: 10%
+}
+
+#footer_top img {
+    cursor: pointer;
+}
+#footer_top > div:nth-child(2) > a > img {
+    height: 20px;
+    margin: 20px 5px 0px;;
+    flex-flow: row;
+}
+#footer_center {
+    display: flex;
+    gap: 1%;
+    margin: auto;
+    padding: 3% 5%;
+}
+
+#footer_center > div{
+    width: 24%;
+}
+
+#footer_center h5 {
+    color: white;
+    cursor: pointer;
+}
+
+#footer_center p {
+    color: grey;
+    cursor: pointer;
+    text-align: left;
+}
+
+#footer_center p:hover {
+    color: white;
+}
+
+#footer_bottom {
+    display: flex;
+    gap: 1%;
+    padding: 2% 5%;
+    background-color:  rgb(11, 10, 32);
+    color: grey;
+}
+
+#footer_bottom div:nth-child(1) {
+    width: 30%;
+}
+
+#footer_bottom div:nth-child(2) {
+    width: 50%;
+}
+
+#footer_bottom div:nth-child(3) {
+    width: 20%;
+    text-align: right;
+}
+
+#footer_bottom > div > select {
+    background-color:  rgb(11, 10, 32);
+    color: grey;
+    border: 0;
+}
+
+#footer_bottom > div > select:hover, #footer_bottom > div > p:hover {
+    cursor: pointer;
+    color: white;
+}
+
+option {
+    background-color: white;
+    color: blue;
+}
+
+#footer_bottom > div > select > option:hover {
+    cursor: pointer;
+}
+
+#footer_bottom > div > p {
+    float:left;
+    padding:0%;
+    margin: 0% 2%;
+}
