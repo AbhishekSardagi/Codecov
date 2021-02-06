@@ -1,3 +1,5 @@
+Clone - Codecov
+
 In this project we have tried our best to make the exact replica of Codecov. With the technology stack that we have learnt in masai school we were able to build the front-end of the Codecov Website.
 
 Technology Stack we used in building this Project :
@@ -5,7 +7,7 @@ Technology Stack we used in building this Project :
  CSS
  JAVASCRIPT
 
-We have focused mainly on the construction og 5 pages:
+We have focused mainly on the construction of 5 pages:
 1. Landing Page.
 2. Product Page.
 3. pricing Page.
