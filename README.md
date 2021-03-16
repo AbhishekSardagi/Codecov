@@ -16,14 +16,10 @@ We have focused mainly on the construction of 5 pages:
 
 Team members:
 
-1. Shekhar Suman
-GitHub: https://github.com/shekhar-2410
+1. Shekhar Suman: https://github.com/shekhar-2410
 
-2. Milind Anand
-GitHub : https://github.com/Milind74
+2. Milind Anand: https://github.com/Milind74
 
-3. Kamlendra Singh
-GitHub : https://github.com/kamlendr
+3. Kamlendra Singh: https://github.com/kamlendr
 
-4. Abhishek Sardagi
-GitHub : https://github.com/AbhishekSardagi
+4. Abhishek Sardagi: https://github.com/AbhishekSardagi 
