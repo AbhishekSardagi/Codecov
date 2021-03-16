@@ -5,7 +5,7 @@ In this project we have tried our best to make the exact replica of Codecov. Wit
 Technology Stack we used in building this Project :
 1. HTML
 2. CSS
-3. JAVASCRIPT
+3. JavaScript
 
 We have focused mainly on the construction of 5 pages:
 1. Landing Page.
