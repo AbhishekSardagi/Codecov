@@ -3,9 +3,9 @@ Clone - Codecov
 In this project we have tried our best to make the exact replica of Codecov. With the technology stack that we have learnt in masai school we were able to build the front-end of the Codecov Website.
 
 Technology Stack we used in building this Project :
- HTML
- CSS
- JAVASCRIPT
+1. HTML
+2. CSS
+3. JAVASCRIPT
 
 We have focused mainly on the construction of 5 pages:
 1. Landing Page.
@@ -14,16 +14,16 @@ We have focused mainly on the construction of 5 pages:
 4. Contact Page.
 5. Signup Page.
 
-Team members and Contributors:
+Team members:
 
-Shekhar Suman
-github : shekhar-2410
+1. Shekhar Suman
+GitHub: https://github.com/shekhar-2410
 
-Milind Anand
-github : Milind74
+2. Milind Anand
+GitHub : https://github.com/Milind74
 
-Kamlendra Singh
-github : kamlendr
+3. Kamlendra Singh
+GitHub : https://github.com/kamlendr
 
-Abhishek Sardagi
-github : AbhishekSardagi
+4. Abhishek Sardagi
+GitHub : https://github.com/AbhishekSardagi
