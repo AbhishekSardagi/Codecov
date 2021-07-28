@@ -1,4 +1,4 @@
-Clone - Codecov
+Codecov
 
 In this project we have tried our best to make the exact replica of Codecov. With the technology stack that we have learnt in masai school we were able to build the front-end of the Codecov Website.
 
