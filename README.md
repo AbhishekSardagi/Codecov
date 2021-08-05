@@ -33,9 +33,4 @@ We have focused mainly on the construction of 5 pages:
 
 # For Developers
 
-```
-clone the repository
-copy the path of the home file and run in browser
-      or
-click on the home file and run in live server
-```
+Visit our website - https://codecov.vercel.app/
